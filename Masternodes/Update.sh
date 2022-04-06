@@ -1,5 +1,5 @@
 #!/bin/sh
-VERSION=1.0.9.0
+VERSION=1.1.1.2
 
 clear
 echo "Starting DAPS Masternode update script"
