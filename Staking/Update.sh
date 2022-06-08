@@ -1,5 +1,5 @@
 #!/bin/sh
-VERSION=1.1.1.2
+VERSION=1.2.0.0
 
 clear
 echo "Starting DAPS Staking update script"
